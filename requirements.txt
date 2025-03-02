@@ -1,0 +1,10 @@
+streamlit>=1.24.0
+plotly>=5.13.0
+pandas>=1.5.3
+numpy>=1.24.2
+Pillow>=9.4.0
+folium>=0.14.0
+geocoder>=1.38.1
+geopy>=2.3.0
+google-generativeai>=0.3.0
+python-dotenv>=1.0.0
